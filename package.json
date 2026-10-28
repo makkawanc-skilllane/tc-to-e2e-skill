@@ -1,0 +1,12 @@
+{
+  "name": "tc-to-e2e-skill",
+  "private": true,
+  "type": "module",
+  "description": "Claude skill: manual TC sheet → Playwright E2E specs + 1:1 evidence report with clips",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
