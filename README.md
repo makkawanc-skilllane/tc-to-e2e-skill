@@ -76,7 +76,7 @@ tests/                         node:test (ไม่ต้องใช้ browser
 ## ติดตั้ง
 
 ```bash
-git clone https://github.com/<owner>/tc-to-e2e-skill.git
+git clone https://github.com/makkawanc-skilllane/tc-to-e2e-skill.git
 cd tc-to-e2e-skill
 ```
 
