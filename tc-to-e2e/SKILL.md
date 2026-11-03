@@ -14,7 +14,9 @@ description: Turn manual test cases from a Google Sheet / Excel into Playwright 
 2. ถ้าไม่มี: คัดลอก `assets/TC_TO_E2E.template.md` ไปวางเป็น `TC_TO_E2E.md` แล้วเติมค่าเท่าที่อ่านได้จากโปรเจกต์
    (`playwright.config.*`, fixtures, โฟลเดอร์ POM, `AGENTS.md`/`CLAUDE.md`) ค่าที่เดาไม่ได้ให้ถามผู้ใช้
    **แสดงไฟล์ให้ผู้ใช้ยืนยันก่อนเริ่มงาน**
-3. ค่าใน `TC_TO_E2E.md` และคู่มือของโปรเจกต์ชนะค่าเริ่มต้นในสกิลนี้เสมอ
+3. ถ้าโปรเจกต์ยังไม่มีโครงสร้าง e2e เลย (เพิ่งเริ่ม ยังไม่มี `tests/`, `shared/fixtures/`, POM ฯลฯ)
+   ดู [references/project-structure.md](references/project-structure.md) เป็นแบบตั้งต้น แล้วค่อยเติมลง `TC_TO_E2E.md`
+4. ค่าใน `TC_TO_E2E.md` และคู่มือของโปรเจกต์ชนะค่าเริ่มต้นในสกิลนี้เสมอ
 
 ## Input — ถามให้ครบก่อนเริ่ม
 

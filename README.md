@@ -48,6 +48,7 @@ flowchart LR
 tc-to-e2e/                     ตัวสกิล (โฟลเดอร์นี้คือสิ่งที่ติดตั้ง)
   SKILL.md
   references/                  เอกสารที่ Claude เปิดอ่านเมื่อถึงขั้นนั้น
+    project-structure.md       โครงสร้างโปรเจกต์ Playwright E2E แบบ generic สำหรับเริ่มโปรเจกต์ใหม่
     figma-crosscheck.md        เทียบ TC / ตั๋ว / Figma / โค้ด และลำดับการตัดสิน
     spec-pattern.md            รูปแบบ spec 1:1 + StepEvidence + mock + fixme
     evidence-report.md         plan.json, สถานะแต่ละแถว, คำสั่ง, การตรวจคลิป, การเผยแพร่
