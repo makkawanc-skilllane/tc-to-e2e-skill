@@ -70,6 +70,7 @@ E2E_VIDEO=all npx playwright test <spec> --project=<project> --workers=1 --retri
 | ส่งคำถามถึง | ชีต `คำถามถึง BA` (ชื่อผู้รับ: `<ชื่อ>`) |
 | คำที่ห้ามใช้ | `<เช่น ห้ามเรียกผู้รับว่า PO>` |
 | prefix ข้อมูลที่ automation สร้าง | `[QA-AUTO]` |
+| label ของการ์ดที่ใช้สกิลนี้ | `tc-to-e2e` |
 
 ## ส่งผล
 
