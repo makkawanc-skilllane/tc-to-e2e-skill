@@ -4,4 +4,4 @@ dist/
 .env
 .env.*
 test-results/
-evidence-*/
+/evidence-*/
